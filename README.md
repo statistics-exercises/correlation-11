@@ -2,7 +2,7 @@
 
 The difference that was introduced in the last exercise was that the y-intercept for the midpoint of the two lines was non-zero.  You thus had to generate each Y value using:
 
-![](https://render.githubusercontent.com/render/math?math=Y=X+1+\delta)
+![](https://render.githubusercontent.com/render/math?math=Y=X%2B1%2B\delta)
 
  where X is a uniform random variable between 0 and 1 and ![](https://render.githubusercontent.com/render/math?math=\delta) here is a uniform random variable between -1 and -1.
 
